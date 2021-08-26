@@ -1,0 +1,58 @@
+.masthead {
+  &,
+  &__menu,
+  #site-nav,
+  .hidden-links {
+    background-color: $primary-color !important;
+  }
+
+  .greedy-nav__toggle .navicon {
+    &,
+    &::before,
+    &::after {
+      background-color: #fff;
+    }
+  }
+
+  &,
+  .greedy-nav a,
+  .search__toggle {
+    color: #fff !important;
+  }
+
+  .greedy-nav .hidden-links::after {
+    border-bottom-color: $primary-color !important;
+    border-top-color: $primary-color !important;
+  }
+
+  &__menu-item a {
+    color: #fff;
+
+    &::before {
+      background-color: #fff !important;
+    }
+  }
+
+  .site-title {
+    font-weight: normal;
+  }
+
+  .site-logo {
+    display: inline-block;
+    font-size: 1.6rem;
+    position: relative;
+
+    &::before {
+      background-color: #fff;
+      border: 0.0667em solid $secondary-color;
+      border-radius: 10rem;
+      content: "";
+      height: 1em;
+      position: absolute;
+      left: 0.0625em;
+      top: 0.275em;
+      width: 1em;
+      z-index: -1;
+    }
+  }
+}

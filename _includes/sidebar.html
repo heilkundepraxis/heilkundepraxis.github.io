@@ -15,6 +15,8 @@
   {% endif %}
   {% endif %}
 
+  {% include business_hours.html %}
+
   {% if page.participants %}
   <h3>Datum</h3>
   <p>{{ page.date | date: "%d. %b %Y" }}</p>

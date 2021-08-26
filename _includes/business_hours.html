@@ -1,0 +1,12 @@
+{% if page.business_hours %}
+<div class="business-hours">
+  <h3>Öffnungszeiten</h3>
+  <p>
+    {% for day in site.data.hours %}
+    <span class="business-hours__day">{{ day[0] }}</span>
+    {{ day[1] }} - {{ day[2] }} Uhr
+    <br>
+    {% endfor %}
+  </p>
+</div>
+{% endif %}

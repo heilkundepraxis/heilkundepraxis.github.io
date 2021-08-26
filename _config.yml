@@ -26,7 +26,7 @@ collections:
     permalink: /leistungen/:path/
 
 masthead_title: Elfriede Steil
-minimal_mistakes_skin: "steil"
+minimal_mistakes_skin: "naturheilkunde"
 footer:
   links:
     - label: Impressum
@@ -44,7 +44,7 @@ breadcrumbs: false
 date_format: "%d.%m.%Y"
 search: true
 
-author: Elfriede Steil
+author: elfriede
 
 defaults:
   - scope:
@@ -68,9 +68,7 @@ defaults:
       layout: single
       classes: wide
       author_profile: true
-      sidebar:
-        - title: Öffnungszeiten
-          text: "Di: 08:00 - 17:00 Uhr<br>Mi: 08:00 - 12:00 Uhr<br>Fr: 08:00 - 17:00 Uhr"
+      business_hours: true
   - scope:
       path: ""
       type: discourses

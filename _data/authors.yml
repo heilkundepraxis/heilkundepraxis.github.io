@@ -1,4 +1,4 @@
-Elfriede Steil:
+elfriede:
   name: Elfriede Steil
   bio: Heilpraktikerin & Physiotherapeutin
   avatar: /assets/images/avatar.jpg
@@ -9,3 +9,13 @@ Elfriede Steil:
     - label: "E-Mail"
       icon: "far fa-envelope"
       url: "mailto:info@heilkundepraxis-steil.de"
+manuel:
+  name: Manuel Schächinger
+  bio: Leidenschaftlicher JavaScript-Entwickler, Läufer und Kaffee-Enthusiast
+  avatar: https://images.schaechinger.com/2/schaechinger.jpg
+  uri: "https://www.schaechinger.com"
+  email: "manuel@schaechinger.com"
+  github: schaechinger
+  twitter: schaechinger
+  xing: ManuelSchaechinger
+  linkedin: schaechinger

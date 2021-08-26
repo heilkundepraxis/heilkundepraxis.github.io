@@ -1,0 +1,51 @@
+@font-face {
+  font-family: "ClearSans-Bk";
+  font-weight: normal;
+  font-style: normal;
+  src: url("https://static.schaechinger.com/vendor/clear/1.0/font/2B1F35_0_0.eot");
+  src: url("https://static.schaechinger.com/vendor/clear/1.0/font/2B1F35_0_0.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://static.schaechinger.com/vendor/clear/1.0/font/2B1F35_0_0.woff")
+      format("woff"),
+    url("https://static.schaechinger.com/vendor/clear/1.0/font/2B1F35_0_0.ttf")
+      format("truetype"),
+    url("https://static.schaechinger.com/vendor/clear/1.0/font/2B1F35_0_0.svg#wf")
+      format("svg");
+}
+@font-face {
+  font-family: "ClearSans-Bk";
+  font-weight: bold;
+  font-style: normal;
+  src: url("https://static.schaechinger.com/vendor/clear/1.0/font/2B1F35_5_0.eot");
+  src: url("https://static.schaechinger.com/vendor/clear/1.0/font/2B1F35_5_0.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://static.schaechinger.com/vendor/clear/1.0/font/2B1F35_5_0.woff")
+      format("woff"),
+    url("https://static.schaechinger.com/vendor/clear/1.0/font/2B1F35_5_0.ttf")
+      format("truetype");
+}
+
+$font-clearsans: (
+  "ClearSans-Bk",
+  "Helvetica Neue",
+  "Helvetica",
+  "Arial",
+  sans-serif
+);
+$serif: $font-clearsans;
+$sans-serif-narrow: $font-clearsans;
+$header-font-family: $serif;
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $serif;
+}
+
+p,
+* {
+  font-family: $serif;
+}

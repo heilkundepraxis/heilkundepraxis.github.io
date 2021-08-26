@@ -1,0 +1,19 @@
+.google-maps {
+  border: none;
+  height: 15rem;
+  width: 100%;
+}
+
+/* sidebar */
+
+.author__avatar img {
+  border-color: $secondary-color !important;
+  border-width: 0.175rem !important;
+}
+
+.business-hours {
+  &__day {
+    display: inline-block;
+    width: 2rem;
+  }
+}

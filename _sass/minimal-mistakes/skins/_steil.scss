@@ -98,15 +98,6 @@ $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: $text-color !default;
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 
-.page__footer {
-  background-color: #fafafa !important;
-  // color: #fff !important; // override
-}
-
-.page__footer-follow .social-icons .svg-inline--fa {
-  color: inherit;
-}
-
 .masthead {
   // &,
   // * {
@@ -115,7 +106,12 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
   // }
 
   .site-title {
+    color: $primary-color;
     font-weight: normal;
+
+    .site-subtitle {
+      color: $text-color;
+    }
   }
 
   .site-logo {
@@ -147,4 +143,13 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
   border: none;
   height: 15rem;
   width: 100%;
+}
+
+.page__footer {
+  background-color: #fafafa !important;
+  // color: #fff !important; // override
+}
+
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
 }

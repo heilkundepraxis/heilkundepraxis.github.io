@@ -1,6 +1,6 @@
 main:
-  - title: Therapien
-    url: /therapien/
+  - title: Leistungen
+    url: /leistungen/
   - title: Über mich
     url: /ueber-mich/
   - title: Praxis

@@ -10,4 +10,7 @@ gallery:
 
 ## Meine Praxisräume
 
+Meine Praxis befindet sich im Haus Marienbad in Marquartstein. Ich freue mich
+auf Ihren Besuch.
+
 {% include gallery %}

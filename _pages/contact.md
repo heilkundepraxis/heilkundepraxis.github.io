@@ -1,6 +1,6 @@
 ---
 title: Kontakt & Anfahrt
-permalink: /kontakt
+permalink: /kontakt/
 ---
 
 ## Kontakt

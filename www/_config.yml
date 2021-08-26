@@ -1,0 +1,80 @@
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
+  - jekyll-sitemap
+github: [metadata]
+name: Elfriede Steil
+title: Heilkundepraxis Elfriede Steil
+subtitle: Heilpraktikerin & Physiotherapeutin
+locale: de
+repository: schaechinger/heilkundepraxis-steil
+title_separator: "|"
+date_format: "%d.%m.%Y"
+timezone: Europe/Berlin
+future: true
+
+logo: /assets/images/icon.png
+include: ["_pages"]
+
+collections:
+  posts:
+    permalink: /vortraege/:year-:month-:day-:title
+  therapies:
+    output: true
+    permalink: /therapien/:path/
+
+masthead_title: Elfriede Steil
+minimal_mistakes_skin: "steil"
+footer:
+  links:
+    - label: Impressum
+      icon: "x"
+      url: /impressum
+    - label: Datenschutz
+      icon: "x"
+      url: /datenschutz
+    - label: "Kontakt & Anfahrt"
+      icon: "x"
+      url: /kontakt
+atom_feed:
+  hide: true
+breadcrumbs: false
+date_format: "%d.%m.%Y"
+search: true
+
+author: Elfriede Steil
+
+defaults:
+  - scope:
+      path: ""
+      type: therapies
+    values:
+      layout: single
+      author_profile: false
+      share: false
+  - scope:
+      path: ""
+      type: discourses
+    values:
+      layout: single
+      author_profile: true
+      share: false
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
+      sidebar:
+        - title: Öffnungszeiten
+          text: "Di: 08:00 - 17:00 Uhr<br>Mi: 08:00 - 12:00 Uhr<br>Fr: 08:00 - 17:00 Uhr"
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
+      related: true

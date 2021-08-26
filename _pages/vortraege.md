@@ -2,7 +2,7 @@
 title: Vorträge
 layout: collection
 permalink: /vortraege/
-collection: posts
+collection: discourses
 entries_layout: feature
 ---
 

@@ -18,7 +18,8 @@ logo: /assets/images/icon.png
 include: ["_pages"]
 
 collections:
-  posts:
+  discourses:
+    output: true
     permalink: /vortraege/:year-:month-:day-:title
   therapies:
     output: true
@@ -72,7 +73,7 @@ defaults:
           text: "Di: 08:00 - 17:00 Uhr<br>Mi: 08:00 - 12:00 Uhr<br>Fr: 08:00 - 17:00 Uhr"
   - scope:
       path: ""
-      type: posts
+      type: discourses
     values:
       layout: single
       classes: wide

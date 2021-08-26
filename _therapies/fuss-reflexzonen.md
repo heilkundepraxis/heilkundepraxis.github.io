@@ -3,7 +3,7 @@ title: Fuß-Reflexzonen Massage
 excerpt: "nach Marquardt"
 sidebar:
   - title: ""
-    image: http://placehold.it/350x250/fa9b20/fff
+    image: https://via.placeholder.com/350x250/fa9b20/fff
     image_alt: "logo"
     text: ""
 ---

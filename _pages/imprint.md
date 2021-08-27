@@ -7,7 +7,7 @@ permalink: /impressum/
 
 nach § 5 TMG
 
-Elfriede Steil \\
+{{ site.name }} \\
 Wurzerweg 1 \\
 83250 Marquartstein
 

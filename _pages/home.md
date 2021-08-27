@@ -2,4 +2,4 @@
 permalink: /
 ---
 
-Hier entsteht die Webseite der Heilkundepraxis Steil.
+Hier entsteht die Webseite der {{ site.title }}.

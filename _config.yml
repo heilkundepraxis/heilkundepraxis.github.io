@@ -4,8 +4,8 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
 github: [metadata]
-name: Elfriede Steil
-title: Heilkundepraxis Elfriede Steil
+name: Elfriede Steil-Schächinger
+title: Heilkundepraxis Elfriede Steil-Schächinger
 subtitle: Heilpraktikerin & Physiotherapeutin
 locale: de
 repository: schaechinger/heilkundepraxis-steil
@@ -25,18 +25,15 @@ collections:
     output: true
     permalink: /leistungen/:path/
 
-masthead_title: Elfriede Steil
+masthead_title: Elfriede Steil-Schächinger
 minimal_mistakes_skin: "naturheilkunde"
 footer:
   links:
     - label: Impressum
-      icon: "x"
       url: /impressum
     - label: Datenschutz
-      icon: "x"
       url: /datenschutz
     - label: "Kontakt & Anfahrt"
-      icon: "x"
       url: /kontakt
 atom_feed:
   hide: true

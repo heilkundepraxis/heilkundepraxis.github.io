@@ -1,7 +1,24 @@
 .page__footer {
   background-color: #fafafa !important;
-}
 
-.page__footer-follow .social-icons .svg-inline--fa {
-  color: inherit;
+  .page__footer-follow ul.social-icons {
+    li:first-child,
+    li i {
+      display: none;
+    }
+
+    li a {
+      font-weight: normal;
+      text-decoration: underline;
+      text-transform: none;
+    }
+
+    li + li::before {
+      padding-right: 0;
+    }
+
+    .svg-inline--fa {
+      color: inherit;
+    }
+  }
 }

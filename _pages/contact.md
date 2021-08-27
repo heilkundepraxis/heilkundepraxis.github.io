@@ -15,7 +15,7 @@ E-Mail: [E-Mail senden](mailto:info@heilkundepraxis-steil.de){:target="\_blank"}
 
 Sie finden meine Praxis unter folgender Anschrift:
 
-Elfriede Steil \\
+{{ site.name }} \\
 Wurzerweg 1 \\
 83250 Marquartstein
 

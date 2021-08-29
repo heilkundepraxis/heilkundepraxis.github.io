@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Über mich
+classes: page__about
 permalink: /ueber-mich/
 ---
 
-<div class="text-center">
-  <h2>Elfriede Steil</h2>
+![](/assets/images/portrait.jpg){: .avatar}
 
-<p>Heilpraktikerin & Physiotherapeutin</p>
+## {{ site.name }}
 
-</div>
+Heilpraktikerin & Physiotherapeutin

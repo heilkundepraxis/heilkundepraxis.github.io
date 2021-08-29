@@ -1,0 +1,9 @@
+body {
+  &.page__about {
+    text-align: center;
+
+    .initial-content {
+      margin-top: 1.5rem;
+    }
+  }
+}

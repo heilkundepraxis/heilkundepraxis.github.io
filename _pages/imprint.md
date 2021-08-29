@@ -1,6 +1,7 @@
 ---
 title: Impressum
 permalink: /impressum/
+business_hours: false
 ---
 
 ## Eigentümer dieser Seite

@@ -1,12 +1,12 @@
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 plugins:
+  - jekyll-avatar
   - jekyll-include-cache
   - jekyll-remote-theme
   - jekyll-sitemap
 github: [metadata]
-name: Elfriede Steil-Schächinger
-title: Heilkundepraxis Elfriede Steil-Schächinger
-subtitle: Heilpraktikerin & Physiotherapeutin
+name: Elfriede Steil
+title: Heilkundepraxis Elfriede Steil
 locale: de
 repository: schaechinger/heilkundepraxis-steil
 title_separator: "|"
@@ -25,7 +25,6 @@ collections:
     output: true
     permalink: /leistungen/:path/
 
-masthead_title: Elfriede Steil-Schächinger
 minimal_mistakes_skin: "naturheilkunde"
 footer:
   links:
@@ -39,7 +38,7 @@ atom_feed:
   hide: true
 breadcrumbs: false
 date_format: "%d.%m.%Y"
-search: true
+search: false
 
 author: elfriede
 

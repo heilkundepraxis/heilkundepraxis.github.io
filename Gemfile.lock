@@ -274,6 +274,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-avatar
   jekyll-include-cache
   jekyll-sitemap
 

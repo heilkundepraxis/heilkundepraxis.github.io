@@ -26,6 +26,7 @@ collections:
     permalink: /leistungen/:path/
 
 minimal_mistakes_skin: "naturheilkunde"
+masthead_title: Heilkundepraxis Elfriede Steil
 footer:
   links:
     - label: Impressum

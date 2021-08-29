@@ -4,17 +4,20 @@ permalink: /impressum/
 business_hours: false
 ---
 
+{% assign author = site.data.authors[site.author] %}
+
 ## Eigentümer dieser Seite
 
 nach § 5 TMG
 
-{{ site.name }} \\
+{{ author.name }} \\
 Wurzerweg 1 \\
 83250 Marquartstein
 
 ### Kontakt
 
-Mail: [E-Mail senden](mailto:info@heilkundepraxis-steil.de){:target="\_blank"}
+Mail: [E-Mail senden](mailto:{{ author.email }}) \\
+Telefon: [08641 621-511](tel:+498641621511)
 
 ## Haftungsausschluss
 

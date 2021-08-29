@@ -2,13 +2,11 @@ elfriede:
   name: Elfriede Steil
   bio: Heilpraktikerin & Physiotherapeutin
   avatar: /assets/images/avatar.jpg
+  email: "info@heilkundepraxis-steil.de"
   links:
     - label: "Telefon"
       icon: "fas fa-phone-alt"
       url: "tel:+498641621511"
-    - label: "E-Mail"
-      icon: "far fa-envelope"
-      url: "mailto:info@heilkundepraxis-steil.de"
 manuel:
   name: Manuel Schächinger
   bio: Leidenschaftlicher JavaScript-Entwickler, Läufer und Kaffee-Enthusiast

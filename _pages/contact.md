@@ -5,7 +5,7 @@ permalink: /kontakt/
 
 ## Kontakt
 
-Bitte machen Sie vorab einen Termin aus. Telefonisch erreichen Sie mich dienstags und freitags
+Bitte machen Sie vorab einen Termin aus. Telefonisch erreichen Sie mich **montags und freitags**
 zwischen 07:30 und 08:00 Uhr oder sprechen Sie gerne auf meinen hilfreichen Anrufbeantworter:
 
 Telefon: [08641 621-511](tel:+498641621511) \\
@@ -16,6 +16,7 @@ E-Mail: [E-Mail senden](mailto:info@heilkundepraxis-steil.de){:target="\_blank"}
 Sie finden meine Praxis unter folgender Anschrift:
 
 {{ site.name }} \\
+Wohnstift Marquartstein \\
 Wurzerweg 1 \\
 83250 Marquartstein
 

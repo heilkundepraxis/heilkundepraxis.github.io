@@ -1,6 +1,8 @@
 ---
 title: Fuß-Reflexzonen Massage
 excerpt: "nach Marquardt"
+category: kgm
+order: 14
 sidebar:
   - title: ""
     image: https://via.placeholder.com/350x250/fa9b20/fff

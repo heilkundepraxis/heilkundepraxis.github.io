@@ -1,0 +1,22 @@
+---
+title: Leistungen
+layout: archive
+permalink: /leistungen/
+---
+
+{% assign entries_layout = 'list' %}
+{% assign category = '' %}
+
+<div class="entries-{{ entries_layout }}">
+  {% assign entries = site.services | sort: 'order' %}
+
+  {%- for post in entries -%}
+  {% if category != post.category %}
+  {% assign category = post.category %}
+  <h2>{{ site.data.services.categories[category] }}</h2>
+  {% endif %}
+  {%- unless post.hidden -%}
+  {% include archive-single.html %}
+  {%- endunless -%}
+  {%- endfor -%}
+</div>

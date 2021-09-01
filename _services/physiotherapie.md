@@ -1,11 +1,11 @@
 ---
-title: Kräutertherapie
+title: Physiotherapie
 excerpt: ""
-category: aku
-order: 4
+category: kgm
+order: 11
 sidebar:
   - title: ""
-    image: https://via.placeholder.com/350x250/fa9b20/fff
+    image: https://via.placeholder.com/350x250
     image_alt: "logo"
     text: ""
 ---

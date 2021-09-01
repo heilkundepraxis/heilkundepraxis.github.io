@@ -1,6 +1,8 @@
 ---
 title: AnPiMoMai
 excerpt: "nach Schröder"
+category: aku
+order: 3
 sidebar:
   - title: ""
     image: https://via.placeholder.com/350x250/fa9b20/fff

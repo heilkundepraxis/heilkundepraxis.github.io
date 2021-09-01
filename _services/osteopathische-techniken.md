@@ -1,6 +1,8 @@
 ---
 title: Osteopathische Techniken
 excerpt: ""
+category: kgm
+order: 16
 sidebar:
   - title: ""
     image: https://via.placeholder.com/350x250/fa9b20/fff

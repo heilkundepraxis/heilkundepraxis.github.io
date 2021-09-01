@@ -1,6 +1,8 @@
 ---
 title: Klassische Massagen
 excerpt: ""
+category: kgm
+order: 13
 sidebar:
   - title: ""
     image: https://via.placeholder.com/350x250/fa9b20/fff

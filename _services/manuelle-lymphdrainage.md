@@ -1,6 +1,8 @@
 ---
 title: Manuelle Lymphdrainage
 excerpt: "mit Kompressionsbandagierung, nach Földi"
+category: kgm
+order: 12
 sidebar:
   - title: ""
     image: https://via.placeholder.com/350x250/fa9b20/fff

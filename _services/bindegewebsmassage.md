@@ -1,6 +1,8 @@
 ---
-title: Akupunktmassage
-excerpt: "nach Penzel"
+title: Bindegewebsmassage
+excerpt: ""
+category: kgm
+order: 15
 sidebar:
   - title: ""
     image: https://via.placeholder.com/350x250/fa9b20/fff

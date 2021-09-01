@@ -1,8 +1,8 @@
 ---
-title: Kräutertherapie
-excerpt: ""
+title: Akupunkturmassage
+excerpt: "nach Radloff"
 category: aku
-order: 4
+order: 2
 sidebar:
   - title: ""
     image: https://via.placeholder.com/350x250/fa9b20/fff

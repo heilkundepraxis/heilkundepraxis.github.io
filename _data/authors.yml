@@ -1,6 +1,5 @@
 elfriede:
   name: Elfriede Steil-Schächinger
-  bio: Heilpraktikerin & Physiotherapeutin
   avatar: /assets/images/avatar.jpg
   email: "info@heilkundepraxis-steil.de"
   links:
@@ -9,11 +8,6 @@ elfriede:
       url: "tel:+498641621511"
 manuel:
   name: Manuel Schächinger
-  bio: Leidenschaftlicher JavaScript-Entwickler, Läufer und Kaffee-Enthusiast
   avatar: https://images.schaechinger.com/2/schaechinger.jpg
   uri: "https://www.schaechinger.com"
   email: "manuel@schaechinger.com"
-  github: schaechinger
-  twitter: schaechinger
-  xing: Manuel_Schaechinger
-  linkedin: schaechinger

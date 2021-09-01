@@ -1,6 +1,6 @@
 ---
 title: Manuelle Lymphdrainage
-excerpt: "mit Kompressionsbandagierung, nach Foldi"
+excerpt: "mit Kompressionsbandagierung, nach Földi"
 sidebar:
   - title: ""
     image: https://via.placeholder.com/350x250/fa9b20/fff

@@ -11,13 +11,13 @@ business_hours: false
 nach § 5 TMG
 
 {{ author.name }} \\
-Wurzerweg 1 \\
-83250 Marquartstein
+Postweg 4 \\
+83246 Unterwössen
 
 ### Kontakt
 
 Mail: [E-Mail senden](mailto:{{ author.email }}) \\
-Telefon: [08641 621-511](tel:+498641621511)
+Telefon: [08641 6953539](tel:+494986416953539)
 
 ## Haftungsausschluss
 
